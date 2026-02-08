@@ -10,9 +10,9 @@
  * Arduino Uno "Brain" via Serial commands.
  */
 
-#define BLYNK_TEMPLATE_ID   "TMPL6w_Zi-VNj"
-#define BLYNK_TEMPLATE_NAME "Yaesu Control"
-#define BLYNK_AUTH_TOKEN    "i00r5icBokV2DqYYIkGPucEGMD90Zrry"
+#define BLYNK_TEMPLATE_ID   "YOUR_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "YOUR_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN    "YOUR_AUTH_TOKEN"
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
